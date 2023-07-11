@@ -69,9 +69,9 @@
 
 @media only screen and (max-width: 1000px) {
     .mv{
-        width: 980px;
+        width: 998px;
         height: 12800px;
-        display: flex;
+        display: flex-start;
         background: url("LP2.png");
         background-size: cover;
     }
