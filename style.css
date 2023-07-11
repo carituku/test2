@@ -69,8 +69,8 @@
 
 @media only screen and (max-width: 1000px) {
     .mv{
-        width: 960px;
-        height: 12500px;
+        width: 980px;
+        height: 12800px;
         display: flex;
         background: url("LP2.png");
         background-size: cover;
@@ -79,9 +79,9 @@
     .main-button{
         position: absolute;
         left: 47px;
-        top: 1138px;
+        top: 1160px;
         height: 107px;
-        width: 883px;
+        width: 900px;
         color: white;
         font-size: 20px;
         display: flex;
@@ -93,9 +93,9 @@
     .button2{
         position: absolute;
         left: 79px;
-        top: 5375px;
+        top: 5490px;
         height: 96px;
-        width: 818px;
+        width: 840px;
         color: white;
         font-size: 20px;
         display: flex;
@@ -106,10 +106,10 @@
         
     .button3{
         position: absolute;
-        left: 60px;
-        top: 12149px;
-        height: 100px;
-        width: 855px;
+        left: 61px;
+        top: 12400px;
+        height: 104px;
+        width: 875px;
         color: white;
         font-size: 20px;
         display: flex;
